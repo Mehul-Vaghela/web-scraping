@@ -12,6 +12,8 @@
     <title>BSE-NSE</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Description" content="web scrapping in core php">
+    <meta name="Keywords" content="web scrapping">
     <link rel="stylesheet" href="/css/bootstrap.css">
     <link rel="stylesheet" href="/css/style.css">
     <link rel="shortcut icon" href="">
