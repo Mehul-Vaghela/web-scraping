@@ -1,5 +1,5 @@
 # web-scraping
-web scraping in code php.
+web scraping in core php.
 
 In this project I have scrapped two pages from bseindia.com and nseindia.com
 
